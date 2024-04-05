@@ -1,0 +1,5 @@
+users can write text for email address to indicate how it is related to the contact
+users can write text for phone number to indicate how it is related to the contact
+users should be able to search through the contacts
+users add new contacts, update existing contacts, and delete old contacts
+users should be able to merge duplicate contacts.
